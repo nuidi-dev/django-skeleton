@@ -1,0 +1,7 @@
+# specific .gitignore for this directory
+
+*
+
+!README
+!.gitignore
+!*.template
