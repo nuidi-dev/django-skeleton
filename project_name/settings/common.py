@@ -94,7 +94,7 @@ MEDIA_URL = '/media/'
 
 ### INTERNATIONALIZATION
 
-LANGUAGE_CODE = 'en/us'
+LANGUAGE_CODE = 'en-us'
 
 TIME_ZONE = 'UTC'
 
