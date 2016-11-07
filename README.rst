@@ -1,7 +1,7 @@
 Django Application Skeleton
 =======================
 
-**Django Application Skeleton** is skeleton for creating django projects.
+**Django Application Skeleton** - skeleton for new standalone Django applications.
 
 Meta
 ----
