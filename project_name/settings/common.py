@@ -3,6 +3,10 @@ import sys
 # Import some utility functions
 from os.path import abspath, basename, dirname, join, normpath
 
+### AUTHENTICATION ##############################
+
+#AUTH_USER_MODEL = 'authentication.Account'
+
 ### ADMINS CONFIG ###############################
 
 ADMINS = (
